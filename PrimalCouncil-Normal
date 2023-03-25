@@ -1,0 +1,40 @@
+Primal Council (Normal)
+--------------------------
+|cffff7c0aHERO ON PULL|r
+1. Take |cff00ffffConductive Mark|r to Earthen Pillar
+2. |cff00ffffMeteor Axes|r Ranged > pillars, Melee > boss
+3. |cff00ffffPrimal Blizzard|r touch the lava at 5-6 stacks.
+4. Heavy cleave, burn evenly, switch as needed.
+5. "Next on Kadros", "Next on Dathea" for kicks.
+-- Melee kicks when grouped, Ranged kicks when spread.
+6. Avoid area between {cross} and edge of platform.
+
+Group 1 > Focus Kadros > kick Kadros |cff00ffffFrost Spike|r
+Group 2 > Focus Dathea > kick Dathea |cff00ffffLightning Bolt|r
+Group 3 > Focus Embar > kick Kadros |cff00ffffFrost Spike|r
+Group 4 > Focus Opal > kick Dathea |cff00ffffLightning Bold|r
+--------------------------
+{T}<Tanks>
+Kerie -> pull Opal {circle} - tank swap on |cff00ffffCrush|r
+Xarric -> pull Ember {cross} - face away from raid.
+Kite clockwise away from lava pools.
+--------------------------{/T}
+{H}<Healers>
+{timer:00:29}|cff00ffffMeteor Axe|r
+{timer:01:10}|cff00ffffMeteor Axe|r
+{timer:01:50}|cff00ffffMeteor Axe|r
+{timer:02:29}|cff00ffffMeteor Axe|r
+{timer:03:10}|cff00ffffMeteor Axe|r
+{timer:03:50}|cff00ffffMeteor Axe|r
+{timer:04:29}|cff00ffffMeteor Axe|r
+{timer:05:10}|cff00ffffMeteor Axe|r
+{timer:05:50}|cff00ffffMeteor Axe|r
+{timer:06:29}|cff00ffffMeteor Axe|r
+{timer:07:10}|cff00ffffMeteor Axe|r
+--------------------------{/H}
+{p:Xarrik}RL Notes:
+Have Akai set up groups during tash.
+Hero on pull until we can reliably get to 15%?{/p}
+{p:Akaitaka}<Akaitaka>
+Group 1&2 - RDPS
+Group 3&4 - MDPS{/p}
