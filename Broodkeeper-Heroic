@@ -1,0 +1,49 @@
+Broodkeeper (Heroic)
+------------------------
+|cffff7c0aHERO ON PULL|r
+1. Each egg is +2% immunity for Diurna.
+2. Keep +50 yards between boss and adds.
+3. Group 1+2 on ADDS. Use a kick-focus macro.
+4. Everyone else on BOSS. 
+
+|cffee5555Heroic:|r |cff00ffffWildfire|r - Dodge swirlies (Stacking DoT)
+{!g12}------------------------
+<EGG GROUP -- BOSS>
+ -|cffa330c9Kerielainne|r | |cffc41e3aShadopart|r | |cffc41e3aZelegith|r on eggs
+ -|cff00ffffRapid Incubation|r - extra action button, kite beam through eggs{/g}
+{g12}------------------------
+<ADD GROUP>
+ -Avoid Earthreavers frontal.
+ -Keep |cffff00ffPrimalist Mages|r kicked
+ -DPS Boss as much as possible
+
+|cffee5555Heroic:|r Dispel Dragonspawn Flamebender{/g}
+{p:Umbraa, Bivyre,Burdyn,Bivyre,Kerielainn}------------------------
+<Mortal Stoneclaws CD Rotation>
+{time:00:28} |cfff48cbaUmbraa|r |cffffff00[Blessing of Sacrifice]|r
+{time:01:15} |cff33937fBivyre|r |cffffff00[Time Dilation]|r
+{time:02:03} |cfff48cbaUmbraa|r |cffffff00[Blessing of Sacrifice]|r
+{time:02:51} |cff33937fBivyre|r |cffffff00[Time Dilation]|r
+{time:03:39} |cfff48cbaUmbraa|r |cffffff00[Blessing of Sacrifice]|r
+{time:04:27} |cff33937fBivyre|r |cffffff00[Time Dilation]|r{/p}
+------------------------
+<Add spawn timers>
+{time:00:35}Adds (1) {diamond} |cffff00ffMage|r x2 |cffffff00[Kick]|r
+{time:00:55}Adds (2) {square} |cffff00ffMage|r x1
+{time:01:30}Adds (3) {star} |cffff00ffFlamebender|r |cffffff00[Dispel]|r
+{time:01:55}Adds (4) {moon}  |cffff00ffMage|r x2, |cffff00ffEarthreaver|r |cffffff00[Nuke]|r
+{time:02:35}Adds (5) {square}
+{time:02:55}Adds (6) {triangle} |cffff00ffMage|r x3
+{time:03:30}Adds (7) {moon} |cffff00ffEarthreaver|r, |cffff00ffFlamebender|r
+{time:03:50}Adds (8) {circle} |cffff00ffMage|r x3
+{time:04:35}Adds (9) {triangle} |cffff00ffMage|r x3
+{time:04:55}Adds (10) {square} |cffff00ffMage|r x3
+{time:05:30}Adds (11) {circle} |cffff00ffEarthreaver|r, |cffff00ffMage|r x2
+{p:Xarrik,Akaitaka,Bendra}------------------------
+RL Notes
+-  Group 1&2 heavy melee for more P1 boss dmg
+- |cff33937fBivyre|r and |cfff48cbaUmbraa|r go with Egg Tenders
+- Add Group pivot to boss as much as possible.
+- Pick 1-2 ppl to switch to Adds on the fly if needed.
+- Pick 1 person to bring Proto-Drakes to Add group
+- Set up a Roar/Windrush rotation for egg group because DH{/p}
