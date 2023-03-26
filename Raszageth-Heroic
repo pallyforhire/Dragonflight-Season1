@@ -1,0 +1,39 @@
+Raszageth (Heroic)
+----------------------
+|cffff7c0aHERO ON PULL|r
+P1 > Intermission > P2 > Intermission > P3
+|cffee5555Heroic:|r Beams will one-shot
+{p1}|cff00ff00PHASE 1|r
+ -Drop |cff00ffffStatic Charge|r on outer edge (4, 6, 7 o'clock)
+ -Use puddles to stay on platform during knockback
+ -|cff00ffffVolatile Current|r Overlap circles, interrupt adds
+         --- Purge/any form of incap
+         --- |cffee5555Heroic:|r must interrupt TWICE
+{tank} Swap at 1x |cff00ffffElectrified Jaws|r
+{time:00:58}|cffc41e3aShadopart|r |cffffff00[AMZ]|r
+{time:01:35}|cffc41e3aZelegith|r |cffffff00[AMZ]|r
+--------------------------------{/p}
+|cff00ff00INTERMISSION 1 - phase at 65%|r
+ {circle} |cffff7c0a<-- 2,4,6 | 1,3,5 -->|r {square}
+ -|cffff00ffRuiner|r >|cffff00ffAcolytes|r >|cffff00ffVanguard|r
+ -Kick |cffff00ffStormseeker Acolytes|r
+ -Dodge Lightning, kill all adds, teleport back
+--------------------------------
+{p2}|cff00ff00PHASE 2|r
+|cffee5555Heroic:|r Crosing polarity causes AoE dmg
+ -POS stack under boss. NEG wait, then stack at {cross}
+ -|cff00ffffTempest Wing|r |cffffff00[Pushback]|r use movement buffs
+ -Take BFC's far away from raid
+{tank}Swap at 1x |cff00ffffElectrified Jaws|r
+--------------------------------{/p}
+|cff00ff00INTERMISSION 2 - phase at Vault Integrity = 0|r
+|cffee5555Heroic:|r 2 Big adds spawn, they swap places
+ -Slow/CC/focus adds - do not let them reach big adds
+ -Dodge orbs, lightning, strafing runs, and swirlies
+--------------------------------
+{p3}|cff00ff00PHASE 3|r
+|cffff7c0aHERO IN P3|r
+|cffee5555Heroic:|r Magnetic Charge grips everyone
+ -Avoid Thunderous Blast
+ -Take BFC's far away from raid
+{tank}Swap at 1x |cff00ffffThunderous Blast|r, use defensives{/p}
